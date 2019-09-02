@@ -1,0 +1,30 @@
+header color 
+background-color: #252525;
+
+book a cabin section
+background-color: #3F3F3F;
+
+why book with us 
+background-color: #4B4B4B;
+
+footer color 
+background-color: #595959;
+
+green line after footer
+#7AA93C
+
+button color 
+background-color: #AB802D;
+
+why book with us text
+color: #C69A41;
+
+light grey color text below footer
+color: #AFAFAF;
+
+white text on most sections
+
+---------
+
+<table cellspacing="0" cellpadding="0" border="0">
+
